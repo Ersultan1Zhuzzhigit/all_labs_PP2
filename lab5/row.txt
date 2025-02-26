@@ -1,0 +1,9 @@
+Alice went to a big apple farm. She saw aab and abbb animals.  
+There was a_snake and b_bird sitting near a lake.  
+John and Mary walked_around the farm.  
+The farmer had Apples, Bananas, and Grapes.  
+Aaaa.b, Aa.b, and A.b were written on the wall.  
+The road was bumpy, dusty, and long.  
+This_is_an_example_of_text_with_underscores.  
+CamelCaseWordsAreCommonInProgramming.  
+FirstNamesLike James, Robert, and Alice start with uppercase.
